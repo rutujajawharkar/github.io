@@ -211,7 +211,7 @@ ul, li{
     font-weight: 400;
 }
 .news-col:not(:last-child){
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 /* progress bar  */
 .progress-bar{
@@ -358,7 +358,7 @@ ul, li{
         margin-left: 15px;
         justify-content: space-around;
         flex-direction: column;
-        width: 60%;
+        width: 50%;
     }
     .colrhs-right .colrhs-right-sct{
         width: 100%;
